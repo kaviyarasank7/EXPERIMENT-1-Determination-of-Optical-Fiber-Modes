@@ -59,5 +59,9 @@ From fig. shows only 4 LP modes propagates.
 Total number of modes = V2 / 2 = 4.912 / 2
 
 ---
-## Tabulation
+
+# Tabulation
+![IMG_D329D7315329-1](https://github.com/user-attachments/assets/d30fe2c1-2340-43c8-b37f-b63a1c33fa30)
+
 ## Result
+The mode Characteristics of a optic fiber is found to be 5 modes.
